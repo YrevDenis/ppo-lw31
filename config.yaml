@@ -1,4 +1,4 @@
-baseURL: https://aafu.pages.dev/
+baseURL: https://yrevdenis.github.io/ppo-lw31/
 languageCode: en-us
 build:
   writeStats: true
